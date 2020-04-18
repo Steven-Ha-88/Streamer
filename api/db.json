@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "Fortnite 30 solo kills!",
+      "description": "Watch me go on a solo rampage!",
+      "userId": "114402495635747861170",
+      "id": 2
+    },
+    {
+      "title": "My Stream",
+      "description": "This is the best stream",
+      "userId": "114402495635747861170",
+      "id": 3
+    },
+    {
+      "title": "Call of Duty 50kill streak!",
+      "description": "Watch me defeat these losers!",
+      "userId": "114402495635747861170",
+      "id": 4
+    },
+    {
+      "title": "Learn how to code in react and redux!",
+      "description": "For beginners only",
+      "userId": "114402495635747861170",
+      "id": 5
+    },
+    {
+      "title": "Fortnite World Cup",
+      "description": "Me vs Ninja finals",
+      "userId": "114402495635747861170",
+      "id": 6
+    },
+    {
+      "title": "Testing 123",
+      "description": "123",
+      "userId": "114402495635747861170",
+      "id": 7
+    }
+  ]
+}
